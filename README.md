@@ -1,5 +1,4 @@
 # example-angular-graph-swipe
-=======
 
 [demo](http://damc-dev.github.io/example-angular-graph-swipe)
 
